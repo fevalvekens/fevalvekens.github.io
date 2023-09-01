@@ -5,7 +5,7 @@
 ### Data Science 
 
 [Face Emotion Detection](/sample_page)
-<img src="images/‎face_emotion_thumbnail.jpeg?raw=true"/>
+<img src="images/‎face_emotion_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
