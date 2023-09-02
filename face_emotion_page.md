@@ -20,4 +20,8 @@ Further analysis to improve the model's performance can be considered:
 
 - One possibility to train the Complex CNN on a larger dataset is to use datasets available to the public. If the dataset is in color mode, an additional data preprocessing step to convert the images from 3-color channels to a single color channel would be necessary.
 
-- Another possibility is to explore generating new images from existing ones using Generative Adversarial Networks (GANs) such as NVIDIA's StyleGAN2 or Google's Rapid and Accurate Image Super-Resolution (RAISR). However labelling the new images generated would incur additional costs. 
+- Another possibility is to explore generating new images from existing ones using Generative Adversarial Networks (GANs) such as NVIDIA's StyleGAN2 or Google's Rapid and Accurate Image Super-Resolution (RAISR). However labelling the new images generated would incur additional costs.
+
+### Presentation
+
+<img src="images/‎face_emotion_thumbnail.png?raw=true"/>
