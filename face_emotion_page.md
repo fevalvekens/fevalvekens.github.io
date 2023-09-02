@@ -1,4 +1,4 @@
-## Face Emotion project page
+## Face Emotion Detection
 
 ### Executive Summary 
 
