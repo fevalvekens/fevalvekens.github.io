@@ -4,7 +4,7 @@
 
 ### Data Science 
 
-[Face Emotion Detection](/sample_page)
+[Face Emotion Detection - Deep Learning](/sample_page)
 <img src="images/‎face_emotion_thumbnail.png?raw=true"/>
 
 ---
