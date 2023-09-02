@@ -7,7 +7,9 @@ This deep learning project proposes the Complex Convolutional Neural Network (CN
 ### Model Comparison 
 
 Below is a diagram explaining our workflow. We shall build different 6 models, train each model on the training dataset, monitor the performance of the model on the validation dataset and evaluate the model on the test dataset using the metric 'accuracy'.
+
 <img src="model_comparison.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### General Design steps
 
