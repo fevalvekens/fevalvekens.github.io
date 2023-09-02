@@ -8,17 +8,11 @@ This deep learning project proposes the Complex Convolutional Neural Network (CN
 
 Below is a diagram explaining our workflow. We shall build different 6 models, train each model on the training dataset, monitor the performance of the model on the validation dataset and evaluate the model on the test dataset using the metric 'accuracy'.
 
-<img src="model_comparison.png?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/model_comparison.png?raw=true"/>
 
 ### Recommendations
 
 It is recommended that stakeholders consider the limitations and challenges in building an improved and robust predictive model, as well as use a larger and more diverse training dataset, explore data augmentation techniques to improve the model’s accuracy and evaluate the trade off of developing a more complex but more computationally expensive model.
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/model_comparison.png?raw=true"/>
-
 
 ### Further Analysis
 
