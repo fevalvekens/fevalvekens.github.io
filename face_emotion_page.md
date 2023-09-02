@@ -18,17 +18,34 @@ Finally, with the chosen model, we will predict the classes of emotions on the t
 
 <img src="images/‎modeling_workflow.png?raw=true"/>
 
-### 2. Assess assumptions on which statistical inference will be based
+### General Design steps
+
+The modelling part (see blue blox in the above diagram) is an iterative process.
+
+In the first iteration, we will run the model with a set of parameters that we shall use as a start. We will build and compile the model with the Adam optimiser (learning rate = 0.001). We shall fit the model with a batch size of 32, number of epochs 30.
+
+At the end of our first iteration, we shall plot the training and validation accuracies to evaluate how our model is learning and performing. Then we shall evaluate our model's performance on unseen data. Based on the performance, we shall make changes to our base model, which could include:
+
+adding more layers to increase the complexity of our model if the plot shows that our model is underfitting
+using regularisation techniques to prevent the overfitting of our model if we see that our model is performing better on training data than on validation
+changing the activation function
+changing the size of the kernels in our convolutional layers
+On the following iterations, we shall also tune the hyper parameters of our model to improve its performance by changing:
+
+the batch size when we fit our model
+the type of optimizer and / or learning rate
+the number of epochs
+At every iteration, we shall record the results obtained along with the changes we made on the model or the hyperparamaters so we can keep track of the whole modeling process.
+
+### 3. Support the selection of appropriate statistical tools and techniques
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ```javascript
 if (isAwesome){
   return true
 }
 ```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
