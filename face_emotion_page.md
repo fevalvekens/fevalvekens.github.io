@@ -23,5 +23,9 @@ Further analysis to improve the model's performance can be considered:
 - Another possibility is to explore generating new images from existing ones using Generative Adversarial Networks (GANs) such as NVIDIA's StyleGAN2 or Google's Rapid and Accurate Image Super-Resolution (RAISR). However labelling the new images generated would incur additional costs.
 
 ### Presentation
-
+<a href="pdf/Face_Emotion_Presentation.pdf?raw=true">
 <img src="images/‎face_emotion_thumbnail.png?raw=true"/>
+</a>
+
+
+
