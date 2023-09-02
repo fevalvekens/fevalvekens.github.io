@@ -27,5 +27,8 @@ Further analysis to improve the model's performance can be considered:
 <img src="images/‎face_emotion_thumbnail.png?raw=true"/>
 </a>
 
+### Jupyter Notebook 
+https://github.com/fevalvekens/face_emotion
+
 
 
