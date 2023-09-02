@@ -16,7 +16,7 @@ Then we shall compare and evaluate each model, and choose the best one to solve 
 
 Finally, with the chosen model, we will predict the classes of emotions on the test data and generate a classification report and a confusion matrix to gain more insight on the performance of the chosen model and identify areas we can improve. 
 
-
+<img src="images/‎modeling_workflow.png?raw=true"/>
 
 ### 2. Assess assumptions on which statistical inference will be based
 
