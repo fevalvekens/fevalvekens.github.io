@@ -2,7 +2,7 @@
 
 ---
 
-### Data Science 
+## Data Science 
 
 [Face Emotion Detection - Deep Learning](/face_emotion_page)
 <img src="images/‎face_emotion_thumbnail.png?raw=true"/>
@@ -13,7 +13,7 @@
 
 ---
 
-### Design
+## Design
 
 - [Interior Design](https://designwithfe.com/portfolio)
 - [Fashion](/pdf/adaywithfe.pdf)
