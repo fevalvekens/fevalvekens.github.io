@@ -6,7 +6,7 @@ The goal of the problem is to predict whether a passenger was satisfied or not c
 
 ### Models Explored
 
-After performing Exploratory Data Analysis on the two datasets, we imputed the missing values using the median and mode. We then prepared the data for modeling.
+After performing Exploratory Data Analysis (EDA) on the two datasets, we imputed the missing values using the median and mode. We then prepared the data for modeling.
 We explored various classification models for prediction, and tuned them to improve the accuracy score, the chosen model evaluation criterion:
 - Decision Tree
 - Random Forest
@@ -17,6 +17,12 @@ We explored various classification models for prediction, and tuned them to impr
 - Light Gradient Boosting Machine (LightGBM)
 
 We also tried feature engineering, and it slightly improved the accuracy.  
+
+### Data Visualisation
+
+We created an interactive dashboard to visualize some data.
+<img src="images/shinkansen_thumbnail.png?raw=true"/>
+[Tableau Dashboard](https://public.tableau.com/app/profile/fe.valvekens/viz/Hackathon_Fe/ShinkansenTravelExperience)
 
 ### Leaderboard
 
