@@ -24,6 +24,6 @@ Our best accuracy score, 95,44689%, was obtained with the LightGBM model. We mad
 <img src="images/leaderboard.png?raw=true"/>
 
 ### Jupyter Notebook 
-https://github.com/fevalvekens/shinkansen
+[https://github.com/fevalvekens/shinkansen](https://github.com/fevalvekens/shinkansen)
 
 
