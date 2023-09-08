@@ -8,7 +8,7 @@
 <img src="images/‎face_emotion_thumbnail.png?raw=true"/>
 
 ---
-[Shinkansen Travel Experience Prediction](/pdf/sample_presentation.pdf)
+[Shinkansen Travel Experience Prediction - Hackathon](/shinkansen_page.md)
 <img src="images/shinkansen_thumbnail.png?raw=true"/>
 
 ---
