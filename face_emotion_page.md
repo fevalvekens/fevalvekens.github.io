@@ -28,7 +28,7 @@ Further analysis to improve the model's performance can be considered:
 </a>
 
 ### Jupyter Notebook 
-[https://github.com/fevalvekens/face_emotion](/https://github.com/fevalvekens/face_emotion)
+[https://github.com/fevalvekens/face_emotion](https://github.com/fevalvekens/face_emotion)
 
 
 
