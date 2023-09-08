@@ -20,8 +20,10 @@ We also tried feature engineering, and it slightly improved the accuracy.
 
 ### Data Visualisation
 
-We created an interactive [Tableau Dashboard] to visualize some data.
-<img src="images/shinkansen_thumbnail.png?raw=true"/>(https://public.tableau.com/app/profile/fe.valvekens/viz/Hackathon_Fe/ShinkansenTravelExperience)
+We created an interactive dashboard to visualize some data.
+[Tableau Dashboard](https://public.tableau.com/app/profile/fe.valvekens/viz/Hackathon_Fe/ShinkansenTravelExperience)
+<img src="images/shinkansen_thumbnail.png?raw=true"/>
+
 
 
 ### Leaderboard
