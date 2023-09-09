@@ -26,7 +26,7 @@ We created an interactive dashboard to visualize some data:
 
 ### Leaderboard
 
-Our best accuracy score, 95,44689%, was obtained with the LightGBM model. We made it to the top ten leadersboard!
+Our best accuracy score, 95.44689%, was obtained with the LightGBM model. We made it to the top ten leadersboard!
 <img src="images/leaderboard.png?raw=true"/>
 
 ### Jupyter Notebook 
