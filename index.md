@@ -16,6 +16,6 @@
 ## Design
 
 - [Interior Design](https://designwithfe.com/portfolio)
-- [Fashion](/pdf/adaywithfe.pdf)
+- [Yoga Wear](/pdf/adaywithfe.pdf)
 
 ---
